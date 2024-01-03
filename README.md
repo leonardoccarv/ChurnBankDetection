@@ -1,7 +1,7 @@
 # ChurnBankDetection
 - DATA: https://kaggle.com/datasets/sakshigoyal7/credit-card-customers
 - A bank manager is in a scenario where several customers are leaving their credit card services. It would be extremely interesting for the company to be able to predict the customers most likely to leave such services so that, in this way, the bank can act preventively in order to offer better services in favor of maintaining the customer. The data set has 10,000 customers with attributes such as age, salary, marital status, credit limit, card category, among others. There are approximately 18 features in the whole set and there are only 16.0% of customers with churn.
-
+# Features
 - **CLIENTNUM:** unique identifier of the customer cartonista;
 - **Attrition_Flag:** internal event related to customer activity;
 - **Customer_Age:** age of the customer (in years);
