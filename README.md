@@ -28,9 +28,4 @@
 ## Problem Solution
 - Build a model that determines potential customers to churn.
 # Conclusion and next steps
-- With this model we obtain an result of:
-    - Accuracy: 97%
-    - F1 Score: 94%
-    - Precision: 95%
-    - Recall: 93% 
-- for predicting churn for a bank customer. Now, the next steps would be to create benefits with the aim of retaining customers who are likely to churn.
+- With this model we obtain an result of 93% for predicting churn for a bank customer. Now, the next steps would be to create benefits with the aim of retaining customers who are likely to churn.
